@@ -1,0 +1,10 @@
+C:\Users\humbe\source\repos\Estrutura Sequencial - Exercicio 1\Estrutura Sequencial - Exercicio 1\bin\Debug\netcoreapp2.1\Estrutura Sequencial - Exercicio 1.deps.json
+C:\Users\humbe\source\repos\Estrutura Sequencial - Exercicio 1\Estrutura Sequencial - Exercicio 1\bin\Debug\netcoreapp2.1\Estrutura Sequencial - Exercicio 1.runtimeconfig.json
+C:\Users\humbe\source\repos\Estrutura Sequencial - Exercicio 1\Estrutura Sequencial - Exercicio 1\bin\Debug\netcoreapp2.1\Estrutura Sequencial - Exercicio 1.runtimeconfig.dev.json
+C:\Users\humbe\source\repos\Estrutura Sequencial - Exercicio 1\Estrutura Sequencial - Exercicio 1\bin\Debug\netcoreapp2.1\Estrutura Sequencial - Exercicio 1.dll
+C:\Users\humbe\source\repos\Estrutura Sequencial - Exercicio 1\Estrutura Sequencial - Exercicio 1\bin\Debug\netcoreapp2.1\Estrutura Sequencial - Exercicio 1.pdb
+C:\Users\humbe\source\repos\Estrutura Sequencial - Exercicio 1\Estrutura Sequencial - Exercicio 1\obj\Debug\netcoreapp2.1\Estrutura Sequencial - Exercicio 1.csprojAssemblyReference.cache
+C:\Users\humbe\source\repos\Estrutura Sequencial - Exercicio 1\Estrutura Sequencial - Exercicio 1\obj\Debug\netcoreapp2.1\Estrutura Sequencial - Exercicio 1.AssemblyInfoInputs.cache
+C:\Users\humbe\source\repos\Estrutura Sequencial - Exercicio 1\Estrutura Sequencial - Exercicio 1\obj\Debug\netcoreapp2.1\Estrutura Sequencial - Exercicio 1.AssemblyInfo.cs
+C:\Users\humbe\source\repos\Estrutura Sequencial - Exercicio 1\Estrutura Sequencial - Exercicio 1\obj\Debug\netcoreapp2.1\Estrutura Sequencial - Exercicio 1.dll
+C:\Users\humbe\source\repos\Estrutura Sequencial - Exercicio 1\Estrutura Sequencial - Exercicio 1\obj\Debug\netcoreapp2.1\Estrutura Sequencial - Exercicio 1.pdb

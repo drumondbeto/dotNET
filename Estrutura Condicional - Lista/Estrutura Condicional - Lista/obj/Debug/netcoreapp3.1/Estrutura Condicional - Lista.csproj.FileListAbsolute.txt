@@ -1,0 +1,11 @@
+C:\Users\humbe\source\repos\Estrutura Condicional - Lista\Estrutura Condicional - Lista\obj\Debug\netcoreapp3.1\Estrutura Condicional - Lista.csprojAssemblyReference.cache
+C:\Users\humbe\source\repos\Estrutura Condicional - Lista\Estrutura Condicional - Lista\obj\Debug\netcoreapp3.1\Estrutura Condicional - Lista.AssemblyInfoInputs.cache
+C:\Users\humbe\source\repos\Estrutura Condicional - Lista\Estrutura Condicional - Lista\obj\Debug\netcoreapp3.1\Estrutura Condicional - Lista.AssemblyInfo.cs
+C:\Users\humbe\source\repos\Estrutura Condicional - Lista\Estrutura Condicional - Lista\bin\Debug\netcoreapp3.1\Estrutura Condicional - Lista.exe
+C:\Users\humbe\source\repos\Estrutura Condicional - Lista\Estrutura Condicional - Lista\bin\Debug\netcoreapp3.1\Estrutura Condicional - Lista.deps.json
+C:\Users\humbe\source\repos\Estrutura Condicional - Lista\Estrutura Condicional - Lista\bin\Debug\netcoreapp3.1\Estrutura Condicional - Lista.runtimeconfig.json
+C:\Users\humbe\source\repos\Estrutura Condicional - Lista\Estrutura Condicional - Lista\bin\Debug\netcoreapp3.1\Estrutura Condicional - Lista.runtimeconfig.dev.json
+C:\Users\humbe\source\repos\Estrutura Condicional - Lista\Estrutura Condicional - Lista\bin\Debug\netcoreapp3.1\Estrutura Condicional - Lista.dll
+C:\Users\humbe\source\repos\Estrutura Condicional - Lista\Estrutura Condicional - Lista\bin\Debug\netcoreapp3.1\Estrutura Condicional - Lista.pdb
+C:\Users\humbe\source\repos\Estrutura Condicional - Lista\Estrutura Condicional - Lista\obj\Debug\netcoreapp3.1\Estrutura Condicional - Lista.dll
+C:\Users\humbe\source\repos\Estrutura Condicional - Lista\Estrutura Condicional - Lista\obj\Debug\netcoreapp3.1\Estrutura Condicional - Lista.pdb
